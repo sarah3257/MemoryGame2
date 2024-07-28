@@ -1,0 +1,56 @@
+﻿body {
+}
+
+
+
+div > div {
+    background-image: url('img/game.jpg');
+    width: 180px;
+    height: 150px;
+    border: solid 5px black;
+}
+
+#div_play {
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.img1 {
+    background-image: url('img/game1.jpg');
+}
+
+.img2 {
+    background-image: url('img/game2.jpg');
+}
+
+.img3 {
+    background-image: url('img/game3.jpg');
+}
+
+.img4 {
+    background-image: url('img/game4.jpg');
+}
+
+.img5 {
+    background-image: url('img/game5.jpg');
+}
+
+.img6 {
+    background-image: url('img/game6.jpg');
+}
+
+.img7 {
+    background-image: url('img/game7.jpg');
+}
+
+.img8 {
+    background-image: url('img/game8.jpg');
+}
+
+
+
+.opacity {
+    opacity: 0.4;
+}
